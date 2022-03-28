@@ -11,7 +11,6 @@
   inputs.src-nimatic-master.ref   = "refs/heads/master";
   inputs.src-nimatic-master.owner = "DangerOnTheRanger";
   inputs.src-nimatic-master.repo  = "nimatic";
-  inputs.src-nimatic-master.dir   = "";
   inputs.src-nimatic-master.type  = "github";
   
   inputs."markdown".owner = "nim-nix-pkgs";
